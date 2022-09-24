@@ -1,0 +1,82 @@
+[
+ {
+  "name": "train-labels-idx1-ubyte.gz",
+  "type": "未知"
+ },
+ {
+  "name": "archive (1).zip",
+  "type": "文本数据集"
+ },
+ {
+  "name": "archive (2).zip",
+  "type": "文本数据集"
+ },
+ {
+  "name": "archive (3).zip",
+  "type": "文本数据集"
+ },
+ {
+  "name": "archive (4).zip",
+  "type": "文本数据集"
+ },
+ {
+  "name": "archive (5).zip",
+  "type": "文本数据集"
+ },
+ {
+  "name": "archive.zip",
+  "type": "文本数据集"
+ },
+ {
+  "name": "cifar-10-python",
+  "type": "文本数据集"
+ },
+ {
+  "name": "cifar-10-python.tar.gz",
+  "type": "未知"
+ },
+ {
+  "name": "cifar-100-python.tar.gz",
+  "type": "图像数据集"
+ },
+ {
+  "name": "fashion-mnist-master",
+  "type": "图像数据集"
+ },
+ {
+  "name": "fashion-mnist-master.zip",
+  "type": "图像数据集"
+ },
+ {
+  "name": "mysql-8.0.30-winx64.zip",
+  "type": "未知"
+ },
+ {
+  "name": "t10k-images-idx3-ubyte.gz",
+  "type": "未知"
+ },
+ {
+  "name": "t10k-labels-idx1-ubyte.gz",
+  "type": "未知"
+ },
+ {
+  "name": "train-images-idx3-ubyte.gz",
+  "type": "图像数据集"
+ },
+ {
+  "name": "archive (1)",
+  "type": "未知"
+ },
+ {
+  "name": "archive (1).zip_files",
+  "type": "未知"
+ },
+ {
+  "name": "archive (2)",
+  "type": "未知"
+ },
+ {
+  "name": "WeChatSetup.exe",
+  "type": "未知"
+ }
+]

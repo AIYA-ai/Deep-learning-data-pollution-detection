@@ -1,0 +1,189 @@
+/**********Title**********/
+QTitleLabel{
+        background-color: #47B0E7;
+        font: 100 20pt 'Microsoft YaHei';
+}
+
+
+/**********Button**********/
+QTitleButton{
+        background-color: rgba(255, 255, 255, 0);
+        color: black;
+        border: 0px;
+        font: 100 10pt;
+}
+QTitleButton#MinMaxButton:hover{
+        background-color: #D0D0D1;
+        border: 0px;
+        font: 100 10pt;
+}
+QTitleButton#CloseButton:hover{
+        background-color: #D32424;
+        color: white;
+        border: 0px;
+        font: 100 10pt;
+}
+QMenuBar
+{
+    margin-top:40px;
+    top:40px;
+    background-color:rgb(255,255,255);
+    }
+QMenuBar::item{
+margin-top:40px;
+top:40px;
+font-size:12px;
+padding-left:5px;
+padding-right:5px;
+color:rgba(0,0,0,1);}
+
+QPushButton#button{
+border:none;
+border-radius:10px;
+background:transparent;
+font:15pt;
+
+qproperty-iconSize:25px 25px;}
+QPushButton#button:hover{
+border-radius:5px;
+background-color:#BABABA;
+}
+
+QPushButton#button1{
+border:none;
+border-radius:20px;
+background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,stop:0 rgba(255,182,193,.7),stop:.5 rgb(176,224,230));
+font:30pt;
+color:#ffffff;
+}
+QPushButton#button1:hover{
+border-radius:20px;
+background-color:#006385;
+padding:2px 4px;
+font:35pt;
+font-pox:30px 30px;
+}
+
+QPushButton#button11{
+border:none;
+border-radius:10px;
+background-color:transparent;
+padding:2px;
+font:15pt;
+color:#ffffff;
+}
+QPushButton#button11:hover{
+border-radius:5px;
+background-color:#transparent;
+padding:2px 4px;
+font:20pt;
+color:#ffffff;
+}
+QPushButton#button22{
+border:none;
+border-radius:10px;
+background-color:transparent;
+font:15pt;
+padding:5px;
+color:#ffffff;
+}
+QPushButton#button22:hover{
+border-radius:5px;
+background-color:#transparent;
+padding:2px 4px;
+font:20pt;
+color:#ffffff;
+}
+QPushButton#button33{
+border:none;
+border-radius:10px;
+background-color:transparent;
+font:15pt;
+
+color:#ffffff;
+}
+QPushButton#button33:hover{
+border-radius:5px;
+background-color:#transparent;
+padding:2px 4px;
+font:20pt;
+color:#ffffff;
+}
+QLineEdit#editline{
+border-radius:5px;
+color:#47B0E7;
+font:15px 'Microsoft YaHei';
+}
+QLabel#textsize{
+font:20px 'Microsoft YaHei';
+}
+QPushButton#choice{
+border-radius:5px;
+background-color:#ffffff;
+font:15px 'Microsoft YaHei';
+}
+QPushButton#choice:hover{
+background-color:#6E9BC5;
+}
+QPushButton#mitcancel{
+border-radius:5px;
+background-color:#ffffff;
+font:20px 'Microsoft YaHei';
+}
+QPushButton#mitcancel:hover{
+background-color:#6E9BC5;
+}
+QRadioButton#radiobutton{
+font:20px 'Microsoft YaHei';
+}
+
+QListWidget
+{
+color:#47B0E7;
+border:10px;
+font:20px;
+}
+QListWidget::item
+{
+    color:#47B0E7;
+    height:40px;
+}
+
+QTableWidget
+{
+    font-size:20px;
+    font-family:"Microsoft YaHei";
+    color:#47B0E7;
+}
+
+QHeaderView::section
+{
+    font-size:20px;
+    font-family:"Microsoft YaHei";
+    color:#000000;
+    min-weight:49px;
+    min-height:49px;
+    max-height:49px;
+}
+QLabel#QLab{
+font:20px 'Microsoft YaHei';
+}
+QCheckBox#Cbox{
+font:15px 'Microsoft YaHei';
+}
+
+QTabWidget::pane{
+	background:#F5F5F5;
+}
+QTabBar::tab{
+	width:200px;
+	height:30px;
+	background:#ffffff;
+}
+QTabBar::tab:selected{
+	background:#ffffff;
+}
+QTabBar::tab:!selected{
+	background:#F5F5F5;
+}
+
